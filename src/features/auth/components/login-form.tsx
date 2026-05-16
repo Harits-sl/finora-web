@@ -37,7 +37,8 @@ export function LoginForm() {
         <Field>
           <Button
             type="submit"
-            className="cursor-pointer"
+            variant="default"
+            className="cursor-pointer hover:bg-primary/90"
           >
             Sign in to Finora
           </Button>
